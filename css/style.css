@@ -21,6 +21,26 @@ main{
     width: 50%;
 }
 
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+    color: darkgreen;
+    text-shadow: 1px 1px 2px;
+  }
+
+p{
+    background-color: #fff;
+    border-left: 6px solid green;
+    padding: 25px;
+    max-width: 700px;
+    margin: auto;
+    box-shadow: 0 4px 8px;
+    line-height: 1.5;
+    font-size: 18px;
+    color: grey;
+  }
+
 nav{
     background: #575858;
     width: 25%;
