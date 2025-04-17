@@ -43,4 +43,11 @@ aside{
 aside img{
     display: block;
     width: 100%;
+    padding: 1em;
+}
+footer{
+    background-color: brown;
+    width: 100%;
+    padding: 3%;
+    text-align: center;
 }
